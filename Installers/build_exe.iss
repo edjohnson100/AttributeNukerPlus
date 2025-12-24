@@ -18,7 +18,6 @@ AppVersion=1.1.0
 ; ==============================================================================
 
 AppName={#APP_NAME}
-AppVersion=1.0.0
 DefaultGroupName={#APP_NAME}
 
 ; --- SINGLE PATH SETTING USING VARIABLES ---
