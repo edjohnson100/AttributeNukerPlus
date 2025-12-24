@@ -5,14 +5,14 @@
 
 ; ⭐️ DEFINE VARIABLES: Change these values for each project ⭐️
 ; 1. APP_NAME: The descriptive name used in Windows menus and Group names (e.g., "My Fusion Utility").
-#define APP_NAME "MyAddinName"
+#define APP_NAME "AttributeNukerPlus"
 ; 2. APP_FOLDER: The physical folder name placed inside the Fusion API directory (e.g., "MyUtilityFolder"). Must be unique and generally avoid spaces.
-#define APP_FOLDER "MyAddinFolder"
+#define APP_FOLDER "AttributeNukerPlus"
 ; 3. APP_TYPE: The type of Fusion asset. Must exactly match the folder name in Fusion API.
 ; Options are "Scripts" or "AddIns"
-#define APP_TYPE "AddIns" 
+#define APP_TYPE "Scripts" 
 ; 4. AppVersion: Edit to match the current build
-AppVersion=1.0.0
+AppVersion=1.1.0
 ; ==============================================================================
 ; 📝 END CONFIGURATION
 ; ==============================================================================

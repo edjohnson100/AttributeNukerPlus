@@ -9,7 +9,7 @@ CLS
 SET "ISCC=C:\Program Files (x86)\Inno Setup 6\ISCC.exe"
 
 :: * Define the Application Name for Installer Filenames ⭐️
-SET "APP_NAME=MyAddinName" 
+SET "APP_NAME=AttributeNukerPlus" 
 :: ==============================================================================
 
 ECHO ==========================================

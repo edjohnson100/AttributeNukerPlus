@@ -4,11 +4,11 @@ set -e
 # ==============================================================================
 # 📝 CONFIGURATION (edit this section)
 # ==============================================================================
-APP_NAME="MyAddinName"                 
+APP_NAME="AttributeNukerPlus"                 
 # AddIns or Scripts
-APP_TYPE="AddIns"
-IDENTIFIER="com.makingwithanedj.myaddin"         
-VERSION="1.0.0"
+APP_TYPE="Scripts"
+IDENTIFIER="com.makingwithanedj.attributenukerplus"         
+VERSION="1.1.0"
 # ==============================================================================
 # 📝 END CONFIGURATION
 # ==============================================================================

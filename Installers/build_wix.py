@@ -4,9 +4,9 @@ import uuid
 # ==============================================================================
 # 📝 CONFIGURATION: EDIT THIS SECTION FOR EACH PROJECT
 # ==============================================================================
-APP_NAME = "MyAddinName"               
+APP_NAME = "AttributeNukerPlus"               
 # Set this to "AddIns" or "Scripts"
-APP_TYPE = "AddIns"
+APP_TYPE = "Scripts"
 MANUFACTURER = "Ed Johnson (Making With An EdJ)"           
 
 # IMPORTANT: Generate a NEW GUID for every NEW app.
@@ -16,7 +16,7 @@ MANUFACTURER = "Ed Johnson (Making With An EdJ)"
 #
 # python -c "import uuid, sys; print('\n'.join(str(uuid.uuid4()).upper() for _ in range(int(sys.argv[1]))))" 5
 #
-PRODUCT_UPGRADE_CODE = "PUT-NEW-GUID-HERE" 
+PRODUCT_UPGRADE_CODE = "3D410CCC-15D8-4F6C-9D63-5D519DAC5795" 
 # ==============================================================================
 # 📝 -- END CONFIGURATION --
 # ==============================================================================

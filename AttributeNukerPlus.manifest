@@ -1,6 +1,7 @@
 {
 	"autodeskProduct":	"Fusion",
 	"type":	"script",
+	"id":	"6C87BD36-54FC-4936-8F33-B2D01D785A92",
 	"author":	"Ed Johnson",
 	"description":	{
 		"":	"List and selectively remove Design.attributes from both the root component and the design."
