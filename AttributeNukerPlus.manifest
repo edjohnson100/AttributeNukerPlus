@@ -1,0 +1,12 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"script",
+	"author":	"Ed Johnson",
+	"description":	{
+		"":	"List and selectively remove Design.attributes from both the root component and the design."
+	},
+	"version":	"1.1.0",
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"iconFilename":	"ScriptIcon.svg"
+}
