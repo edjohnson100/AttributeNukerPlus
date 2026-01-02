@@ -2,7 +2,7 @@
 
 **The essential cleanup utility for Autodesk Fusion developers and power users.**
 
-![AttributeNuker Logo](AttributesNuker2.png")
+<img src="AttributesNuker2.png" width="50%" alt="AttributeNuker Logo">
 
 ## Introduction: The "Why" and "What"
 
