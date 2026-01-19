@@ -1,13 +1,11 @@
 {
-	"autodeskProduct":	"Fusion",
-	"type":	"script",
-	"id":	"6C87BD36-54FC-4936-8F33-B2D01D785A92",
-	"author":	"Ed Johnson",
-	"description":	{
-		"":	"List and selectively remove Design.attributes from both the root component and the design."
-	},
-	"version":	"1.1.0",
-	"supportedOS":	"windows|mac",
-	"editEnabled":	true,
-	"iconFilename":	"ScriptIcon.svg"
+	"autodeskProduct": "Fusion",
+	"type": "script",
+	"id": "6C87BD36-54FC-4936-8F33-B2D01D785A92",
+	"author": "Ed Johnson - Making with An EdJ",
+	"description": "Advanced attribute management tool for searching, inspecting, and selectively deleting design attributes. | Key Features: JSON parsing with deep inspection, individual key/item deletion from JSON structures, bulk attribute removal, interactive table interface. | Context: Data cleanup and debugging tool for Fusion designs.",
+	"version": "1.2.0",
+	"supportedOS": "windows|mac",
+	"editEnabled": true,
+	"iconFilename": "ScriptIcon.svg"
 }
