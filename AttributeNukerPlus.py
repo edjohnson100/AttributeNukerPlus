@@ -1,4 +1,4 @@
-#Author-Making With An EdJ (Community)
+#Author-Ed Johnson - Making With An EdJ
 #Description-Search attributes, parse JSON, and selectively nuke keys or whole attributes.
 
 import adsk.core, adsk.fusion, adsk.cam, traceback
