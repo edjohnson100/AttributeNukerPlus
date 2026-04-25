@@ -59,3 +59,8 @@ Installers/Output/
 *.pkg
 *.dmg
 *.zip
+
+# ----------------------
+# 6. Misc
+# ----------------------
+Archive/
